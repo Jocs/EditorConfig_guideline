@@ -1,7 +1,7 @@
 # editorconfig.org
 root = true
 
-[*.js]
+[**.js]
 # 项目中采用tab作为代码缩进样式
 indent_style = tab
 # 定义换行符，支持lf,cr 和 crlf
